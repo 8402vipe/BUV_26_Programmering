@@ -1,0 +1,16 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\bin\Debug\net8.0\sjelv skaffat app.exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\bin\Debug\net8.0\sjelv skaffat app.deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\bin\Debug\net8.0\sjelv skaffat app.runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\bin\Debug\net8.0\sjelv skaffat app.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\bin\Debug\net8.0\sjelv skaffat app.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\refint\sjelv skaffat app.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv skaffat app.genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\ref\sjelv skaffat app.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\sjelv skaffat app\obj\Debug\net8.0\sjelv sk.3342A584.Up2Date

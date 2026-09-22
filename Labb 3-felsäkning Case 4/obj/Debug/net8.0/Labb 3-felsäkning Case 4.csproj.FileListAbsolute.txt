@@ -1,0 +1,16 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\bin\Debug\net8.0\Labb 3-felsäkning Case 4.exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\bin\Debug\net8.0\Labb 3-felsäkning Case 4.deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\bin\Debug\net8.0\Labb 3-felsäkning Case 4.runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\bin\Debug\net8.0\Labb 3-felsäkning Case 4.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\bin\Debug\net8.0\Labb 3-felsäkning Case 4.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\refint\Labb 3-felsäkning Case 4.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-felsäkning Case 4.genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\ref\Labb 3-felsäkning Case 4.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3-felsäkning Case 4\obj\Debug\net8.0\Labb 3-f.C6137E16.Up2Date

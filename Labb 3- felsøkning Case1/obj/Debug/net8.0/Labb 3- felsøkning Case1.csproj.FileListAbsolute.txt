@@ -1,0 +1,16 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\bin\Debug\net8.0\Labb 3- felsøkning Case1.exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\bin\Debug\net8.0\Labb 3- felsøkning Case1.deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\bin\Debug\net8.0\Labb 3- felsøkning Case1.runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\bin\Debug\net8.0\Labb 3- felsøkning Case1.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\bin\Debug\net8.0\Labb 3- felsøkning Case1.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\refint\Labb 3- felsøkning Case1.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- felsøkning Case1.genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\ref\Labb 3- felsøkning Case1.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case1\obj\Debug\net8.0\Labb 3- .EA341B99.Up2Date

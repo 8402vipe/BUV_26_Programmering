@@ -1,0 +1,16 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\bin\Debug\net8.0\Labb 3- felsøkning Case 2.exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\bin\Debug\net8.0\Labb 3- felsøkning Case 2.deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\bin\Debug\net8.0\Labb 3- felsøkning Case 2.runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\bin\Debug\net8.0\Labb 3- felsøkning Case 2.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\bin\Debug\net8.0\Labb 3- felsøkning Case 2.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\refint\Labb 3- felsøkning Case 2.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- felsøkning Case 2.genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\ref\Labb 3- felsøkning Case 2.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\Labb 3- felsøkning Case 2\obj\Debug\net8.0\Labb 3- .DEC7DFDA.Up2Date

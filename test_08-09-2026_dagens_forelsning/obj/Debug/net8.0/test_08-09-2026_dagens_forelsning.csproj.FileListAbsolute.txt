@@ -1,0 +1,5 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\test_08-09-2026_dagens_forelsning\obj\Debug\net8.0\test_08-09-2026_dagens_forelsning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\test_08-09-2026_dagens_forelsning\obj\Debug\net8.0\test_08-09-2026_dagens_forelsning.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\test_08-09-2026_dagens_forelsning\obj\Debug\net8.0\test_08-09-2026_dagens_forelsning.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\test_08-09-2026_dagens_forelsning\obj\Debug\net8.0\test_08-09-2026_dagens_forelsning.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\test_08-09-2026_dagens_forelsning\obj\Debug\net8.0\test_08-09-2026_dagens_forelsning.sourcelink.json

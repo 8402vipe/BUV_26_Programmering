@@ -1,0 +1,15 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\bin\Debug\net8.0\ChessBoard.exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\bin\Debug\net8.0\ChessBoard.deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\bin\Debug\net8.0\ChessBoard.runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\bin\Debug\net8.0\ChessBoard.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\bin\Debug\net8.0\ChessBoard.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\refint\ChessBoard.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ChessBoard.genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\ChessBoard\obj\Debug\net8.0\ref\ChessBoard.dll
