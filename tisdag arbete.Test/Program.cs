@@ -10,4 +10,4 @@ public class Person
     //lagre for å se endringer i Github på internett
     //Dato
     
-
+//Ny kode test lagre mer i denne filen.
