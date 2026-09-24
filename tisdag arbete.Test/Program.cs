@@ -12,3 +12,4 @@ public class Person
     
 //Ny kode test lagre mer i denne filen.
 //svettas nær jag skriver den linjen.
+//ska vi ta en koktail
