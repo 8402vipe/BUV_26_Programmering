@@ -11,3 +11,4 @@ public class Person
     //Dato
     
 //Ny kode test lagre mer i denne filen.
+//svettas nær jag skriver den linjen.
