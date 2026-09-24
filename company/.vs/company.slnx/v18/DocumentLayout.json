@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HomeUser\\Documents\\GitHub\\BUV_26_Programmering\\Natt till onsdag _23._sep\\",
+  "WorkspaceRootPath": "C:\\Users\\HomeUser\\Documents\\GitHub\\BUV_26_Programmering\\company\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{769CDAAA-8A33-97EB-692E-3905FFA6CB29}|Natt till onsdag _23._sep.csproj|c:\\users\\homeuser\\documents\\github\\buv_26_programmering\\natt till onsdag _23._sep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769CDAAA-8A33-97EB-692E-3905FFA6CB29}|Natt till onsdag _23._sep.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D997F93-E2D5-457D-88BC-021017B856C1}|company.csproj|c:\\users\\homeuser\\documents\\github\\buv_26_programmering\\company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D997F93-E2D5-457D-88BC-021017B856C1}|company.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HomeUser\\Documents\\GitHub\\BUV_26_Programmering\\Natt till onsdag _23._sep\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomeUser\\Documents\\GitHub\\BUV_26_Programmering\\company\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HomeUser\\Documents\\GitHub\\BUV_26_Programmering\\Natt till onsdag _23._sep\\Program.cs",
+              "ToolTip": "C:\\Users\\HomeUser\\Documents\\GitHub\\BUV_26_Programmering\\company\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T21:34:05.414Z",
+              "WhenOpened": "2026-09-23T07:33:41.832Z",
               "EditorCaption": ""
             }
           ]

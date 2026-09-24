@@ -1,0 +1,16 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\bin\Debug\net8.0\2026.09.24_Julgranne  upg..exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\bin\Debug\net8.0\2026.09.24_Julgranne  upg..deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\bin\Debug\net8.0\2026.09.24_Julgranne  upg..runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\bin\Debug\net8.0\2026.09.24_Julgranne  upg..dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\bin\Debug\net8.0\2026.09.24_Julgranne  upg..pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\refint\2026.09.24_Julgranne  upg..dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09.24_Julgranne  upg..genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\ref\2026.09.24_Julgranne  upg..dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\2026.09.24_Julgranne  upg\obj\Debug\net8.0\2026.09..164728A3.Up2Date
