@@ -1,0 +1,16 @@
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\bin\Debug\net8.0\Numbersgame.exe
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\bin\Debug\net8.0\Numbersgame.deps.json
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\bin\Debug\net8.0\Numbersgame.runtimeconfig.json
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\bin\Debug\net8.0\Numbersgame.dll
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\bin\Debug\net8.0\Numbersgame.pdb
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.AssemblyInfoInputs.cache
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.AssemblyInfo.cs
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.csproj.CoreCompileInputs.cache
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.sourcelink.json
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.dll
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\refint\Numbersgame.dll
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.pdb
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersgame.genruntimeconfig.cache
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\ref\Numbersgame.dll
+C:\Users\Gamer_w10\source\repos\BUV_26_Programmering\Numbersgame\obj\Debug\net8.0\Numbersg.C255653D.Up2Date
