@@ -1,0 +1,16 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\bin\Debug\net10.0\snake_spillet.exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\bin\Debug\net10.0\snake_spillet.deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\bin\Debug\net10.0\snake_spillet.runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\bin\Debug\net10.0\snake_spillet.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\bin\Debug\net10.0\snake_spillet.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\refint\snake_spillet.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_spillet.genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\ref\snake_spillet.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\snake_spillet\obj\Debug\net10.0\snake_sp.64483394.Up2Date

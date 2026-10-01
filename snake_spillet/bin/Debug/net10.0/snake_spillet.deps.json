@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "snake_spillet/1.0.0": {
+        "runtime": {
+          "snake_spillet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "snake_spillet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
