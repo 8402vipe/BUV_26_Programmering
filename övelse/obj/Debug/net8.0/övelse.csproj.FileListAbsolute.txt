@@ -1,0 +1,16 @@
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\bin\Debug\net8.0\övelse.exe
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\bin\Debug\net8.0\övelse.deps.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\bin\Debug\net8.0\övelse.runtimeconfig.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\bin\Debug\net8.0\övelse.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\bin\Debug\net8.0\övelse.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.AssemblyInfoInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.AssemblyInfo.cs
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.sourcelink.json
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\refint\övelse.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.pdb
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.genruntimeconfig.cache
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\ref\övelse.dll
+C:\Users\HomeUser\Documents\GitHub\BUV_26_Programmering\övelse\obj\Debug\net8.0\övelse.csproj.Up2Date
